@@ -14,13 +14,19 @@ npm-debug.log*
 
 .idea/
 .ionic/
+<<<<<<< HEAD
 node_modules/
+=======
+>>>>>>> 41b9c16eb265f328f1ed44b0503342b5d4bc8568
 .sass-cache/
 .tmp/
 .versions/
 coverage/
 dist/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 41b9c16eb265f328f1ed44b0503342b5d4bc8568
 tmp/
 temp/
 platforms/
