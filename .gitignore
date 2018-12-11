@@ -14,26 +14,20 @@ npm-debug.log*
 
 .idea/
 .ionic/
-<<<<<<< HEAD
-
-=======
->>>>>>> 41b9c16eb265f328f1ed44b0503342b5d4bc8568
+.sourcemaps/
 .sass-cache/
 .tmp/
 .versions/
 coverage/
 dist/
-<<<<<<< HEAD
-
-=======
->>>>>>> 41b9c16eb265f328f1ed44b0503342b5d4bc8568
+node_modules/
 tmp/
 temp/
 platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
-
+www/
 $RECYCLE.BIN/
 
 .DS_Store
